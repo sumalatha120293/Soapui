@@ -1,0 +1,10 @@
+2020-05-27 22:16:13,082 WARN  [SoapUI] Missing folder [C:\Users\om sai ram\eclipse-workspace\SOAPUITest\ext] for external libraries
+2020-05-27 22:16:14,109 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\om sai ram\soapui-settings.xml]
+2020-05-27 22:16:31,924 INFO  [PluginManager] 0 plugins loaded in 3 ms
+2020-05-27 22:16:31,924 INFO  [DefaultSoapUICore] All plugins loaded
+2020-05-27 22:16:35,948 INFO  [WsdlProject] Loaded project from [file:/C:/Users/om%20sai%20ram/Documents/Library-soapui-project.xml]
+2020-05-27 22:16:44,324 INFO  [WsdlProject] Loaded project from [file:/C:/Users/om%20sai%20ram/SOAP%20UI/Employee-automation-soapui-project.xml]
+2020-05-27 22:16:53,351 INFO  [log] tommy2705
+2020-05-27 22:16:53,352 INFO  [log] tommy2705
+2020-05-27 22:16:53,365 INFO  [WsdlProject] Loaded project from [file:/C:/Users/om%20sai%20ram/SOAP%20UI/Employee-automation-soapui-project.xml]
+2020-05-27 22:16:53,707 INFO  [WsdlProject] Loaded project from [file:/C:/Users/om%20sai%20ram/Documents/Library-soapui-project.xml]
